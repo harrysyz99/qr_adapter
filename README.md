@@ -154,13 +154,14 @@ small synthetic problem.
 If you find this project useful, please cite us:
 
 ```bibtex
-@inproceedings{qradaptor2026,
-  title     = {Balancing Fidelity and Plasticity: Aligning Mixed-Precision
-               Fine-Tuning with Linguistic Hierarchies},
-  author    = {Anonymous},
-  booktitle = {Proceedings of the 64th Annual Meeting of the Association for
-               Computational Linguistics (ACL)},
-  year      = {2026}
+@misc{zhou2026balancingfidelityplasticityaligning,
+      title={Balancing Fidelity and Plasticity: Aligning Mixed-Precision Fine-Tuning with Linguistic Hierarchies}, 
+      author={Changhai Zhou and Shiyang Zhang and Yuhua Zhou and Qian Qiao and Jun Gao and Shichao Weng and Weizhong Zhang and Cheng Jin},
+      year={2026},
+      eprint={2505.03802},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.03802}, 
 }
 ```
 
