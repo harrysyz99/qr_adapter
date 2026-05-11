@@ -4,7 +4,7 @@ QR-Adaptor: Balancing Fidelity and Plasticity for Mixed-Precision Fine-Tuning
 
 <div align='center' style="font-size:18px;">
 <p>
-    <a href="./paper.pdf">
+    <a href="https://arxiv.org/abs/2505.03802">
       <img src="https://img.shields.io/badge/Paper-ACL%202026-blue" alt="Paper"/>
     </a>
     <a href="#">
